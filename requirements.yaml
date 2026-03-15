@@ -1,0 +1,14 @@
+packages:
+  "framer-motion": "For fluid, futuristic page transitions and staggered model card reveals"
+  "react-markdown": "To render the markdown responses from the AI models safely and beautifully"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility to resolve Tailwind CSS class conflicts"
+
+images:
+  - path: "artifacts/neuro/public/images/neural-bg.png"
+    description: "Abstract dark futuristic neural network mesh with subtle glowing cyan and purple nodes, extremely dark and sleek background"
+    aspect_ratio: "16:9"
+
+notes:
+  - "The app uses React Query hooks generated in @workspace/api-client-react"
+  - "All components are designed with a forced dark-mode futuristic aesthetic"
